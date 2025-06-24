@@ -220,3 +220,5 @@ agent_communication:
     message: "Completed initial implementation of background removal app with rembg integration. Backend is running on port 8001. Ready for testing of core functionality - image upload and background removal API."
   - agent: "testing"
     message: "Completed comprehensive testing of all backend endpoints. Created and executed backend_test.py to test health check, background removal, and file upload endpoints. All tests passed successfully. The rembg library is working correctly for background removal, and the API properly handles both valid and invalid inputs. The backend is fully functional."
+  - agent: "main"
+    message: "Backend testing complete and successful. Now preparing frontend testing to verify UI functionality including drag-and-drop, image preview, background removal integration, and download functionality."
