@@ -207,9 +207,10 @@ metadata:
 
 test_plan:
   current_focus:
-    - "Background Removal API Endpoint"
-    - "Image Processing with rembg"
-    - "File Upload Handler"
+    - "Drag and Drop Interface"
+    - "Image Preview and Toggle"  
+    - "Background Removal Integration"
+    - "Clean Modern UI Design"
   stuck_tasks: []
   test_all: false
   test_priority: "high_first"
